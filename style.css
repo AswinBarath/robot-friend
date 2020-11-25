@@ -110,4 +110,19 @@ h1 {
     border-bottom-left-radius: 1000px 3000px;
 }
 
+.eve:hover {
+	animation: shimmy 1s;
+  	animation-direction: alternate;
+}
 
+@keyframes shimmy {
+  0% {
+    transform: translate(0, 0);    
+  }
+  50% {
+    transform: translate(0px, 20px);
+  }
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
