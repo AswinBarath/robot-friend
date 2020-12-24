@@ -6,8 +6,9 @@
 <img src="target_robo.jpg" height="200px" align="left" alt="EVE">
 
 EVE (which stands for Extraterrestrial Vegetation Evaluator) is the deuteragonist in the 2008 Disney/Pixar animated feature film WALL-E.
+-Wikipedia
 ---
-<hr>
+
 <br>
 
 ### Screenshot of the project
