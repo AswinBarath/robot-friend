@@ -41,8 +41,6 @@ Favourite book information Management system made possible with hyperlinks and f
 &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;
-![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-&nbsp;
 
 
 ---
