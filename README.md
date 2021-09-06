@@ -15,7 +15,7 @@ Favourite book information Management system made possible with hyperlinks and f
 - [Demo](#Demo)
 - [Screenshot of the project](#Screenshot-of-the-project)
 - [Technologies](#Technologies)
-- [What's unique in this Project](#What's-unique-in-this-Project)
+- [What's unique in this Project](#whats-unique-in-this-project)
 - [EVE Fictional character](#EVE-Fictional-character)
 - [Contributors](#Contributors)
 
