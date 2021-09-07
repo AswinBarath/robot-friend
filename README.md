@@ -1,12 +1,10 @@
 # Robot Friend
 
-
 <p>
 <img src="assets/Robot%20Friend.png" alt="Robot Friend" />
 </p>
 
-Favourite book information Management system made possible with hyperlinks and frames
-
+A freindly robot friend :) made with love with the help of CSS3 properties extensively
 
 ---
 
