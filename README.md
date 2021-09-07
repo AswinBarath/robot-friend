@@ -4,7 +4,7 @@
 <img src="assets/Robot%20Friend.png" alt="Robot Friend" />
 </p>
 
-A freindly robot friend :) made with love with the help of CSS3 properties extensively
+A friendly robot friend :) made with love with the help of CSS3 properties extensively
 
 ---
 
